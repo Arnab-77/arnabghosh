@@ -49,6 +49,7 @@ const certs = [
   { name: "Certified Kubernetes Administrator", code: "CKA", badge: "K8" },
   { name: "Red Hat Certified System Administrator", code: "EX200", badge: "RH" },
   { name: "Red Hat Certified Engineer", code: "EX294", badge: "RH" },
+  { name: "Red Hat Certified System Administrator in OpenShift", code: "EX280", badge: "RH" },
 ];
 
 const education = [
