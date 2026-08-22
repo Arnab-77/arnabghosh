@@ -2,7 +2,7 @@
 const skills = [
   { title: "Cloud Platforms", items: ["Microsoft Azure", "AWS EC2", "S3", "VPC", "IAM", "RDS", "EKS", "ELB", "App Service", "Azure Functions"] },
   { title: "DevOps & CI/CD", items: ["Azure DevOps", "AWS CodePipeline", "CodeBuild", "Jenkins", "GitHub Actions", "Git"] },
-  { title: "Infrastructure as Code", items: ["Terraform", "AWS CloudFormation", "ARM Templates"] },
+  { title: "Infrastructure as Code", items: ["Terraform", "Azure Bicep", "ARM Templates"] },
   { title: "Automation & Scripting", items: ["PowerShell", "Bash", "Ansible"] },
   { title: "Containers & Orchestration", items: ["Docker", "Kubernetes", "AKS", "Amazon EKS"] },
   { title: "Cloud Security", items: ["Azure RBAC", "AWS IAM", "Key Vault", "Secrets Manager", "Defender for Cloud"] },
